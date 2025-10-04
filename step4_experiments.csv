@@ -1,0 +1,7 @@
+embedding_dim,top_k,f1,exact_match,f1_ci_low,f1_ci_high,errors
+256,3,2.621180962515949,0.0,1.8322609144913051,3.5415144539944166,"{'context_mismatch': 127, 'hallucination': 23, 'incomplete': 0, 'yesno_flip': 0}"
+256,5,2.7313833207012115,0.0,1.801604211785703,3.7008048378365808,"{'context_mismatch': 125, 'hallucination': 25, 'incomplete': 0, 'yesno_flip': 0}"
+256,10,2.6965250607052944,0.0,1.903726866960902,3.701019430524306,"{'context_mismatch': 128, 'hallucination': 22, 'incomplete': 0, 'yesno_flip': 0}"
+384,3,2.6452345352401934,0.0,1.8535354193520517,3.555116324259555,"{'context_mismatch': 127, 'hallucination': 23, 'incomplete': 0, 'yesno_flip': 0}"
+384,5,2.7444062140596435,0.0,1.9429118597787003,3.7057914348471575,"{'context_mismatch': 124, 'hallucination': 26, 'incomplete': 0, 'yesno_flip': 0}"
+384,10,2.445344659643661,0.0,1.6784420029982896,3.221873762256466,"{'context_mismatch': 128, 'hallucination': 22, 'incomplete': 0, 'yesno_flip': 0}"

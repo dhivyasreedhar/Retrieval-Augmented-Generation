@@ -1,0 +1,4 @@
+strategy,f1,exact_match,f1_ci_low,f1_ci_high,errors
+instruction,2.6452345352401934,0.0,1.8968333144186673,3.647448734717054,"{'context_mismatch': 127, 'hallucination': 23, 'incomplete': 0, 'yesno_flip': 0}"
+cot,2.8119322256874106,0.0,1.9847940801935728,3.8081520589841467,"{'context_mismatch': 123, 'hallucination': 27, 'incomplete': 0, 'yesno_flip': 0}"
+persona,2.7247741339129115,0.0,1.7242584701645045,3.4295957347755,"{'context_mismatch': 122, 'hallucination': 28, 'incomplete': 0, 'yesno_flip': 0}"
